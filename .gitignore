@@ -1,4 +1,15 @@
-# Logs
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Visual Studio Code
+.vscode/
+
+
+
 logs
 *.log
 npm-debug.log*
